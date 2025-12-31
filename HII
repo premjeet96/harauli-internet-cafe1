@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Internet Cafe</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f6f8; }
+header { background: #0d6efd; color: white; padding: 20px; text-align: center; }
+section { padding: 20px; }
+.services li { margin: 8px 0; }
+footer { background: #222; color: #fff; text-align: center; padding: 15px; }
+.card { background: #fff; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+</style>
+</head>
+<body>
+
+
+<header>
+<h1>Harauli Internet Cafe</h1>
+<p>Fast Internet | Printing | Online Services</p>
+</header>
+
+
+<section>
+<div class="card">
+<h2>हमारी सेवाएँ</h2>
+<ul class="services">
+<li>High Speed Internet</li>
+<li>Printing & Scanning</li>
+<li>Online Form Filling</li>
+<li>Resume / CV Making</li>
+<li>Photo Copy & Lamination</li>
+</ul>
+</div>
+
+
+<div class="card">
+<h2>हमारे बारे में</h2>
+<p>हमारा Internet Cafe आपको तेज़ और भरोसेमंद इंटरनेट सेवा प्रदान करता है। यहाँ सभी प्रकार के online काम आसानी से किए जाते हैं।</p>
+</div>
+
+
+<div class="card">
+<h2>संपर्क करें</h2>
+<p><strong>पता:</strong> Village Harauli</p>
+<p><strong>मोबाइल:</strong> 9693429933</p>
+<p><strong>समय:</strong> सुबह 9 बजे से रात 9 बजे तक</p>
+</div>
+<div class="card">
+<h2>हमारा स्थान (Google Map)</h2>
+<iframe src="https://www.google.com/maps?q=Village+Harauli&output=embed" width="100%" height="300" style="border:0;border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+
+
+<div class="card">
+<h2>WhatsApp से संपर्क करें</h2>
+<p>
+<a href="https://wa.me/919693429933" target="_blank" style="display:inline-block;padding:12px 20px;background:#25D366;color:#fff;text-decoration:none;border-radius:6px;">WhatsApp पर मैसेज करें</a>
+</p>
+</div>
+</section>
+
+
+<footer>
+<p>© 2025 Internet Cafe. All Rights Reserved.</p>
+</footer>
+
+
+</body>
+</html>
